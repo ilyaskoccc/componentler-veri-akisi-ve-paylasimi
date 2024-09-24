@@ -1,0 +1,54 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 3,
+  "numPassedTests": 3,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1727201769217,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler componenti render oluyor",
+          "status": "passed",
+          "title": "Gönderiler componenti render oluyor",
+          "duration": 72,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğuna doğru proplar gönderiliyor ve search yapabiliyor.",
+          "status": "passed",
+          "title": "Arama Çubuğuna doğru proplar gönderiliyor ve search yapabiliyor.",
+          "duration": 25,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler componentine doğru proplar gönderiliyor ve like yapabiliyor.",
+          "status": "passed",
+          "title": "Gönderiler componentine doğru proplar gönderiliyor ve like yapabiliyor.",
+          "duration": 21,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1727201814024,
+      "endTime": 1727201814142,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-ncuvxr/src/__tests__/index.test.jsx"
+    }
+  ]
+}
